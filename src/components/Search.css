@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1000px) {
+    .fullscreen-search{
+     height: 100vh !important;
+  }
+}
+.nike-logo {
+  position: relative;
+  margin-top: -218px;
+}
+.offcanvas-top {
+  height: 45vh;
+}
+.offcanvas-header .btn-close {
+  position: relative;
+  margin-top: -232px;
+}
+
+.width-70 {
+  width: 70%;
+}
+
+.width-140 {
+  width: 250%;
+}
+
+.btn-search {
+  position: absolute;
+  padding: 3px;
+}
+
+
+.offcanvas-backdrop.show {
+    opacity: 1 !important;
+    backdrop-filter: blur(4px) !important;
+    background-color: rgba(22, 9, 9, 0.36) !important;
+}
+
+
