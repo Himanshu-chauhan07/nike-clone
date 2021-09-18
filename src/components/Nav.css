@@ -12,6 +12,19 @@
   }
 }
 
+@media only screen and (max-width: 599px) {
+  .show-img-large {
+    display: none;
+    background: #000;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .show-img-small{
+    display: none;
+  }
+}
+
 .fit-in-parent {
   width: inherit;
 }
