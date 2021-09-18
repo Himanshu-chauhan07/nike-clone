@@ -14,14 +14,14 @@
 
 @media only screen and (max-width: 599px) {
   .show-img-large {
-    display: none;
-    background: #000;
+    display: none !important;
+    
   }
 }
 
 @media only screen and (min-width: 600px) {
   .show-img-small{
-    display: none;
+    display: none !important;
   }
 }
 
@@ -113,4 +113,9 @@ input:hover{
 
 .nav-link{
   color: #000 !important;
+}
+
+.img-main{
+  position: relative !important;
+  width: 90vw !important;
 }

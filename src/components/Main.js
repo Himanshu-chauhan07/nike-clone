@@ -7,20 +7,20 @@ function Main() {
           Shop All Our New Markdowns
         </a>
       </div>
-      <div className="container">
-      <div className="show-img-large container">
+      <div className=" d-flex justify-content-center flex-column text-center ">
+      <div className="show-img-large ">
       <img 
           data-qa="image-media-img"
           alt="Nike. Just Do It"
-          className="_32IPZERI _3jm9Bm_E guL_1FMX fit-in-parent"
+          className="_32IPZERI _3jm9Bm_E guL_1FMX pb-2 img-main"
           src="https://static.nike.com/a/images/f_auto/dpr_1.0/w_1239,c_limit/7a1bedb5-5cfa-4fa0-a38a-397ed691cbc6/nike-just-do-it.jpg"
         />
       </div>
-       <div className="show-img-small container text-center"> 
+       <div className="show-img-small mx-auto"> 
        <img 
           data-qa="image-media-img"
           alt="Nike. Just Do It"
-          class="_32IPZERI _3jm9Bm_E guL_1FMX"
+          class="_32IPZERI _3jm9Bm_E guL_1FMX img-main"
           src="https://static.nike.com/a/images/f_auto/dpr_1.0/w_467,c_limit/69b4c8be-ad46-4b8d-b2a9-e8911358c536/nike-just-do-it.jpg"
         />
        </div>
