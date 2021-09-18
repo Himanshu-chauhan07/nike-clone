@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/nike-clone/static/css/main.6c405097.chunk.css",
-    "main.js": "/nike-clone/static/js/main.3b1dbdf0.chunk.js",
-    "main.js.map": "/nike-clone/static/js/main.3b1dbdf0.chunk.js.map",
+    "main.css": "/nike-clone/static/css/main.c5187655.chunk.css",
+    "main.js": "/nike-clone/static/js/main.d4b388a3.chunk.js",
+    "main.js.map": "/nike-clone/static/js/main.d4b388a3.chunk.js.map",
     "runtime-main.js": "/nike-clone/static/js/runtime-main.e9d4cd93.js",
     "runtime-main.js.map": "/nike-clone/static/js/runtime-main.e9d4cd93.js.map",
     "static/js/2.18b7b84e.chunk.js": "/nike-clone/static/js/2.18b7b84e.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f19cb15c.chunk.js": "/nike-clone/static/js/3.f19cb15c.chunk.js",
     "static/js/3.f19cb15c.chunk.js.map": "/nike-clone/static/js/3.f19cb15c.chunk.js.map",
     "index.html": "/nike-clone/index.html",
-    "static/css/main.6c405097.chunk.css.map": "/nike-clone/static/css/main.6c405097.chunk.css.map",
+    "static/css/main.c5187655.chunk.css.map": "/nike-clone/static/css/main.c5187655.chunk.css.map",
     "static/js/2.18b7b84e.chunk.js.LICENSE.txt": "/nike-clone/static/js/2.18b7b84e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9d4cd93.js",
     "static/js/2.18b7b84e.chunk.js",
-    "static/css/main.6c405097.chunk.css",
-    "static/js/main.3b1dbdf0.chunk.js"
+    "static/css/main.c5187655.chunk.css",
+    "static/js/main.d4b388a3.chunk.js"
   ]
 }
